@@ -32,4 +32,4 @@ Seu código diz muito sobre você, então relaxa, o que queremos é te conhecer 
 
 
 Reference-style: 
-![][duff_man.png]
+![alt text][duff_man.png]
