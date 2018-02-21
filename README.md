@@ -30,6 +30,4 @@ Para nos ajudar a criar nossa cervejeira, desenvolva uma aplicação (pode rodar
 
 Seu código diz muito sobre você, então relaxa, o que queremos é te conhecer melhor através de seu código :wink:.
 
-
-Reference-style: 
-![alt text][duff_man.png]
+[logo]: [duff_man.png]
