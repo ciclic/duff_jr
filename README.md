@@ -17,7 +17,7 @@ Para nos ajudar a criar nossa cervejeira, desenvolva uma aplicação (pode rodar
 |IPA|-7° a 10°|
 |Imperial Stouts|-10° a 13°|
 
-**Importante**: Estamos considerando a tabela acima para começar o projeto, mas no futuro podemos querer acrescentar mais estilos (e tem muitos... da uma olhada: [clique aqui e veja uma lista com alguns dos estilos](https://pt.wikipedia.org/wiki/Lista_de_estilos_de_cerveja)).
+**Importante**: Estamos considerando a tabela acima para começar o projeto, mas no futuro podemos querer acrescentar mais estilos (e tem muitos... da uma olhada: [veja uma lista com alguns dos estilos](https://pt.wikipedia.org/wiki/Lista_de_estilos_de_cerveja)).
 
 
 #### O que esperamos?
