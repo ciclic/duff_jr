@@ -3,7 +3,7 @@
 
 Nossos devs gostam muito de cerveja, e por isso queremos criar nossa própria cervejeira :smirk::beer:. 
 
-O desafio é servir a cerveja sempre gelada! Você sabia que exitem vários estilos de cerveja (IPA, Weizenbier, Pilsens, etc)? 
+O desafio é servir a cerveja sempre gelada! Você sabia que existem vários estilos de cerveja (IPA, Weizenbier, Pilsens, etc)? 
 
 Sabia que cada estilo tem uma temperatura ideal de consumo? Isso mesmo, em uma temperatura ideal sua breja fica mais saborosa :open_mouth:! 
 
