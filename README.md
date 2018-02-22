@@ -1,7 +1,4 @@
- 
-# :beer: Desafio
-
-Nossos devs gostam muito de cerveja, e por isso queremos criar nossa própria cervejeira :smirk::beer:. 
+# Repo para desafios de programação da Ciclic
 
 O desafio é servir a cerveja sempre gelada! Você sabia que existem vários estilos de cerveja (IPA, Weizenbier, Pilsens, etc)? 
 
