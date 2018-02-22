@@ -7,7 +7,7 @@ O desafio é servir a cerveja sempre gelada! Você sabia que existem vários est
 
 Sabia que cada estilo tem uma temperatura ideal de consumo? Isso mesmo, em uma temperatura ideal sua breja fica mais saborosa :open_mouth:! 
 
-Para nos ajudar a criar nossa cervejeira, desenvolva uma aplicação (pode rodar em um main :wink:) que escolha a **menor** temperatura possível para a cerveja escolhida pelo consumidor respeitando a tabela de temperaturas abaixo:
+Para nos ajudar a criar nossa máquina cervejeira, desenvolva uma aplicação (pode rodar em um main :wink:) que escolha a **menor** temperatura possível para a cerveja escolhida pelo consumidor respeitando a tabela de temperaturas abaixo:
 
 
 |Estilo|Temperatura Ideal para consumo|
