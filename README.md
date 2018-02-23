@@ -9,13 +9,15 @@ Para nos ajudar a criar nossa máquina cervejeira, desenvolva uma aplicação (p
 
 |Estilo|Temperatura Ideal para consumo|
 |:---:|:---:|
+|Weissbier|-1° a 3°|
 |Pilsens |-2° a 4°|
 |Weizenbier |-4° a 6°|
+|Red ale|-5° a 5°|
+|India pale ale|-6° a 7°|
 |IPA|-7° a 10°|
+|Dunkel|-8° a 2°|
 |Imperial Stouts|-10° a 13°|
-
-**Importante**: Estamos considerando a tabela acima para começar o projeto, mas no futuro podemos querer acrescentar mais estilos (e tem muitos... da uma olhada: [veja uma lista com alguns dos estilos](https://pt.wikipedia.org/wiki/Lista_de_estilos_de_cerveja)).
-
+|Brown ale|0° a 14°|
 
 #### O que esperamos?
 
