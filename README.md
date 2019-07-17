@@ -1,10 +1,10 @@
-# Repo para desafios de programação da Ciclic
+# Desafio de programação da Ciclic
 
 O desafio é servir a cerveja sempre gelada! Você sabia que existem vários estilos de cerveja (IPA, Weizenbier, Pilsens, etc)? 
 
 Sabia que cada estilo tem uma temperatura ideal de consumo? Isso mesmo, em uma temperatura ideal sua breja fica mais saborosa :open_mouth:! 
 
-Para nos ajudar a criar nossa máquina cervejeira, desenvolva uma aplicação (pode rodar em um main :wink:) que escolha a **menor** temperatura possível para a cerveja escolhida pelo consumidor respeitando a tabela de temperaturas abaixo:
+Para nos ajudar a criar nossa máquina cervejeira, desenvolva uma aplicação (pode rodar em um main, ou então através de uma requisiçao Rest :wink:) que escolha a **menor** temperatura possível para a cerveja escolhida pelo consumidor respeitando a tabela de temperaturas abaixo:
 
 
 |Estilo|Temperatura Ideal para consumo|
@@ -25,7 +25,6 @@ Para nos ajudar a criar nossa máquina cervejeira, desenvolva uma aplicação (p
 - Aproveite para mostrar seus conhecimentos em orientação a objetos e aplicar as boas práticas de desenvolvimento :wink:.
 - Ao final compartilhe sua solução com a gente.
 - Estamos aqui para tirar dúvidas.
-
 
 Seu código diz muito sobre você, então relaxa, o que queremos é te conhecer melhor através de seu código :wink:.
 
